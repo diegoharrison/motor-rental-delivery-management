@@ -1,0 +1,11 @@
+C:\Users\diego\OneDrive\Documentos\Projeto\Mottu\MotorRentDeliveryManagementAPI\MotorRent.DeliveryManagement.Test\bin\Debug\net8.0\MotorRent.DeliveryManagement.Test.deps.json
+C:\Users\diego\OneDrive\Documentos\Projeto\Mottu\MotorRentDeliveryManagementAPI\MotorRent.DeliveryManagement.Test\bin\Debug\net8.0\MotorRent.DeliveryManagement.Test.dll
+C:\Users\diego\OneDrive\Documentos\Projeto\Mottu\MotorRentDeliveryManagementAPI\MotorRent.DeliveryManagement.Test\bin\Debug\net8.0\MotorRent.DeliveryManagement.Test.pdb
+C:\Users\diego\OneDrive\Documentos\Projeto\Mottu\MotorRentDeliveryManagementAPI\MotorRent.DeliveryManagement.Test\obj\Debug\net8.0\MotorRent.DeliveryManagement.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\Projeto\Mottu\MotorRentDeliveryManagementAPI\MotorRent.DeliveryManagement.Test\obj\Debug\net8.0\MotorRent.DeliveryManagement.Test.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\Projeto\Mottu\MotorRentDeliveryManagementAPI\MotorRent.DeliveryManagement.Test\obj\Debug\net8.0\MotorRent.DeliveryManagement.Test.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\Projeto\Mottu\MotorRentDeliveryManagementAPI\MotorRent.DeliveryManagement.Test\obj\Debug\net8.0\MotorRent.DeliveryManagement.Test.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Projeto\Mottu\MotorRentDeliveryManagementAPI\MotorRent.DeliveryManagement.Test\obj\Debug\net8.0\MotorRent.DeliveryManagement.Test.dll
+C:\Users\diego\OneDrive\Documentos\Projeto\Mottu\MotorRentDeliveryManagementAPI\MotorRent.DeliveryManagement.Test\obj\Debug\net8.0\refint\MotorRent.DeliveryManagement.Test.dll
+C:\Users\diego\OneDrive\Documentos\Projeto\Mottu\MotorRentDeliveryManagementAPI\MotorRent.DeliveryManagement.Test\obj\Debug\net8.0\MotorRent.DeliveryManagement.Test.pdb
+C:\Users\diego\OneDrive\Documentos\Projeto\Mottu\MotorRentDeliveryManagementAPI\MotorRent.DeliveryManagement.Test\obj\Debug\net8.0\ref\MotorRent.DeliveryManagement.Test.dll
